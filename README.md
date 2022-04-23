@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RaghuA06
-- 👀 I’m interested in Mathematical Problem Solving
-- 🌱 I’m currently learning Differential Geometry, Adv Linear Algebra, Adv Algorithmic Constructions
+- 👀 I’m interested mainly in Physics and the first principles of the universe.
+-     I have finished learning Calculus on Manifolds, Thermal Physics, Intro Electrodynamics, Intro to Quantum Mechanics, and Classical Mechanics.
+- 🌱 I’m currently learning Probability Theory and Statistics (mainly for use in Physics) from first principles.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email - raghu.nismo@gmail.com
 <!---
